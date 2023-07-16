@@ -14,8 +14,8 @@ Visit at https://ai-prompt-hub.vercel.app/
 - Search by content, username, tag using useState React Hook
 - Authentication with next-auth OAuth Google
 - Encryption using bcrypt
+- CRUD operations for user's posts using MongoDB and mongoose
 - View user profiles and all their posts
-- CRUD operations for user's posts 
 - Route management using Next.js and React router
 - Fully Responsive
 
